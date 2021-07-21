@@ -359,5 +359,3 @@ class CactpotSolver:
         return max_indices
 
             
-
-lookahead_vs_nonlookahead(1000)
